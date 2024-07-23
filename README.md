@@ -1,5 +1,7 @@
 # CityManagement
 
+This project implements a "Smart City Management Platform".
+
 ## Steps to Contribute
 
 - Clone the repo in your local machine
